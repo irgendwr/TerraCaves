@@ -1,0 +1,7 @@
+id: WATER
+layers:
+  - materials: "minecraft:water"
+    layers: 1
+physics: true
+spawnable: ["minecraft:stone"] # , "minecraft:air"
+replaceable: ["minecraft:air"]

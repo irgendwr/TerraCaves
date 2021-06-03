@@ -1,0 +1,6 @@
+id: LANTERN
+layers:
+  - materials: "minecraft:lantern"
+    layers: 1
+spawnable: ["minecraft:stone"]
+replaceable: ["minecraft:air"]

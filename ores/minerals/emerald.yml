@@ -1,0 +1,6 @@
+material: "minecraft:emerald_ore"
+size:
+  min: 6
+  max: 6
+extends: MINERAL
+id: "EMERALD_ORE"

@@ -1,0 +1,7 @@
+id: LAVA
+layers:
+  - materials: "minecraft:lava"
+    layers: 1
+physics: true
+spawnable: ["minecraft:stone"] # , "minecraft:air"
+replaceable: ["minecraft:air"]
